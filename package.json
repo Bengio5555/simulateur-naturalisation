@@ -1,9 +1,0 @@
-{
-  "name": "simulateur-naturalisation-backend",
-  "version": "1.0.0",
-  "description": "Backend serverless pour le simulateur de naturalisation",
-  "main": "api/send-email.js",
-  "dependencies": {
-    "resend": "^3.0.0"
-  }
-}
