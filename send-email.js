@@ -10,8 +10,8 @@
 const { Resend } = require('resend');
 
 // Configuration
-const ADMIN_EMAIL = 'votre-email@exemple.com'; // À REMPLACER
-const FROM_EMAIL = 'onboarding@resend.dev'; // À REMPLACER par votre domaine vérifié
+const ADMIN_EMAIL = 'contact@mondossierfrancais.fr'; // À REMPLACER
+const FROM_EMAIL = 'contact@mondossierfrancais.fr'; // À REMPLACER par votre domaine vérifié
 
 module.exports = async (req, res) => {
     // Gérer CORS
